@@ -119,4 +119,4 @@ Please make sure to update tests as appropriate.
 
 ## Authors and acknowledgment
 
-- [Saurav Hathi](https://www.github.com/hussamgalal999sauravhathi)
+- [Hussam Galal](https://www.github.com/hussamgalal999)
